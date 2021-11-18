@@ -2,6 +2,8 @@ import requests
 
 
 OWM_ENDPOINT = "https://api.openweathermap.org/data/2.5/onecall?"
+
+# You have to change the key below by your own. This key is not valid.
 API_KEY = "8bbb0231728b848fd66447fcafb0ee1d"
 
 weather_params = {
